@@ -16,6 +16,7 @@ João Pedro Alves dos Santos — estudante de Análise e Desenvolvimento de Sist
 | Curso | Status | Pasta |
 |---|---|---|
 | SOC Fundamentals | ✅ Concluído | [`/soc-fundamentals`](./soc-fundamentals) |
+| Cyber Kill Chain | ✅ Concluído | [`/cyber-kill-chain`](./cyber-kill-chain) |
 
 > Este repositório será atualizado conforme eu for avançando em novos cursos e labs.
 
