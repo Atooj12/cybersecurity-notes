@@ -1,6 +1,8 @@
 # Cyber Kill Chain
 
-Anotações sobre o **Cyber Kill Chain**, framework criado pela Lockheed Martin em 2011 para descrever as sete fases de um ataque cibernético, da coleta de informações até a execução do objetivo final do invasor.
+Anotações do curso sobre o **Cyber Kill Chain**, framework criado pela Lockheed Martin em 2011 para descrever as sete fases de um ataque cibernético, da coleta de informações até a execução do objetivo final do invasor.
+
+🏅 Badge conquistado: **Cyber Kill Chain**
 
 ## Conteúdo
 
